@@ -1,0 +1,367 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.wrapper{
+    height: 100vh;
+    width: 100%;
+    background-image:linear-gradient(rgba(1, 1, 1, 0.7),rgba(1, 1, 1, 0.7)),url(https://nashvillenownext.com/wp-content/uploads/2024/02/city-background-panoramic-view-1536x1023.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+nav {
+    color: aliceblue;
+    background-color: none;
+    border-bottom: 1px solid grey;
+}
+.nav-item{
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-size: 18px;
+    padding: 10px;
+}
+.navbar button{
+    background: linear-gradient(to top, #6A06CF 0%, #CF1512 100%);
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-right: 20px;
+    border-left: 20px;
+    font-size: 20px;
+}
+ .wrapper nav:hover{
+    color:#D14D51;
+}
+.wrapper1{
+    margin-top: 180px;
+    margin-left: 300px;
+}
+
+.wrapper1 h4{color: none;
+   
+    font-size: 23px;
+    margin-bottom: 20px;
+    margin-left: 250px;
+    font-weight: 500;
+    line-height: 24px;
+    background-image: linear-gradient(to right ,purple,red);
+    letter-spacing: 2px;
+    background-clip: text;
+    color: transparent;
+}
+.wrapper1 button{
+    background-image: linear-gradient(90deg,red,blue);
+    background-clip: text;
+}
+.wrapper1 h1{
+    font-family: "Poppins", sans-serif;
+    color:rgba( 255,255,255);
+    font-weight: 600;
+    line-height: 62px;
+    font-size: 54px;
+}
+.wrapper1 .btn1{
+    background: linear-gradient(to top, #6A06CF 0%, #CF1512 100%);
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-right: 20px;
+    border-left: 20px;
+    font-size: 20px;
+    margin-left: 120px;
+
+
+transition: 0.5s;
+
+
+}
+.wrapper1 a:hover{
+    
+       
+        
+        transform: rotate(360deg);
+        
+}
+.wrapper1 .btn2{border: 1px solid #8445EE;
+    
+    padding-left: 40px;
+    padding-right: 40px;
+color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-right: 20px;
+    border-left: 20px;
+    font-size: 20px;
+    margin-left: 20px;
+
+}
+.count11{
+    border-bottom: 1px solid grey;
+    padding-bottom: 60px;
+}
+.count2 h1{
+    padding-top: 20px;
+}
+.row1{
+    margin-top: 70px;
+}
+.row1 .para{font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: "Poppins", sans-serif;
+    margin-top: 25px;
+    
+
+}
+.faz1{ background: linear-gradient(to top, #6A06CF 0%, #CF1512 100%);
+    border: none;
+    padding-left: 40px;
+    padding-right: 40px;
+color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-right: 20px;
+    border-left: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+   
+
+
+transition: 0.5s;
+
+}
+.faz2{border: 1px solid #8445EE;
+    
+    padding-left: 40px;
+    padding-right: 40px;
+color:#000000;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-right: 20px;
+    border-left: 20px;
+    font-size: 20px;
+    margin-left: 20px;
+    background-color:none;
+
+}
+.count11 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+}
+.count2  h4{
+    background-image: linear-gradient(to right ,purple,red);
+    letter-spacing: 2px;
+    background-clip: text;
+    color: transparent;
+
+}
+.count2  h1{font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 62px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid grey;
+}
+.count3 {
+    margin-top: 25px;
+}
+.count3 h1{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 22px;
+    color: #000000;
+}
+/*wrapper3*/
+.hy1{background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    height: 100vh;
+    
+    background-image: url(https://static.live.templately.com/agency/2021/12/f0ae4273-architecture-design.jpg);
+}
+.hy11{
+    margin-top: 150px;
+}
+.hy11 h3{
+    background-image: linear-gradient(to right ,purple,red);
+    letter-spacing: 2px;
+    background-clip: text;
+    color: transparent;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.hy11 h1{
+    font-size: 48px;
+    line-height: 62px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    margin-left: 30px;
+}
+.hy11  ul{
+    margin-top: 50px;
+}
+.para2{margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.hy11 i{border: 1px solid purple;
+    padding: 15px;
+    margin-right: 15px;
+    border-radius: 50%;
+
+}
+.hy11 span{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: 500;
+}
+/*wrapper4*/
+.hy13{background-size: cover;
+    background-position: center;
+    object-fit: cover;
+    height: 100vh;
+    background-image: url(https://static.live.templately.com/agency/2021/12/eb31200f-interior-design.jpg);
+}
+.hello{
+    margin-top: 10px;
+}
+.hello h3{
+    background-image: linear-gradient(to right ,purple,red);
+    letter-spacing: 2px;
+    background-clip: text;
+    color: transparent;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+.hello h1{
+    font-size: 48px;
+    line-height: 62px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    margin-left: 30px;
+}
+.hello ul{
+    margin-top: 50px;
+}
+.para22{margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.hello i{border: 1px solid purple;
+    padding: 15px;
+    margin-right: 15px;
+    border-radius: 50%;
+
+}
+.hello span{
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+
+.image-container {
+    position: relative;
+    width: 600px;
+    height: 400px;
+    overflow: hidden;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.5s ease;
+  }
+
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: -100%;
+    width: 100%;
+    background:;
+    color: white;
+    padding: 20px;
+    transition: left 0.5s ease;
+  }
+
+  .image-container:hover img {
+    filter: brightness(70%);
+  }
+
+  .image-container:hover .overlay {
+    left: 0;
+  }
+
+  .image-container:hover::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7));
+    z-index: 1;
+  }
+
+  .overlay {
+    position: absolute;
+    bottom: 0;
+    left: -100%;
+    width: 100%;
+    padding: 20px;
+    transition: left 0.5s ease;
+    z-index: 2;
+  }
+
+  .overlay h3 {
+    margin: 0;
+    font-size: 24px;
+  }
+
+  .overlay h1 {
+    margin: 10px 0;
+    font-size: 36px;
+  }
+
+  .overlay button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    cursor: pointer;
+  }
+
+  .overlay button:hover {
+    background-color: #0056b3;
+  }
+
+
+
+
+
+
+
+  
